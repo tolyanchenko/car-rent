@@ -12,7 +12,7 @@ create .env at /env
 
 ## Connect to local db
 
-- Add this text to file
+- Add this text into .env
 
   - POSTGRES_HOST=0.0.0.0
 
