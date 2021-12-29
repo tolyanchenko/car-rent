@@ -27,3 +27,7 @@ create .env at /env
 ## Running the app
 
 yarn start:dev
+
+## Tetsing the app
+
+http://localhost:3000/api
